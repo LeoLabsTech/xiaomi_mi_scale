@@ -110,16 +110,10 @@ def MQTT_publish(weight, unit, mitdatetime, hasImpedance, miimpedance):
         logging.info(f"Publishing data to topic {MQTT_PREFIX + '/' + name + '/weight'}: {message}")
 
         dir_path = os.path.dirname(os.path.realpath(__file__))
-        weight_data_dir = os.path.join(dir_path, 'weight_data')
-
-        # Create 'weight_data' directory if not exists
-        os.makedirs(weight_data_dir, exist_ok=True)
-
-        weight_data_path = os.path.join(weight_data_dir, 'weight.json')
 
         # Read the existing data
-        if os.path.exists(weight_data_path):
-            with open(weight_data_path, 'r') as json_file:
+        if os.path.exists('./input/weight.json'):
+            with open('./input/weight.json', 'r') as json_file:
                 try:
                     data = json.load(json_file)
                 except json.JSONDecodeError:
@@ -132,29 +126,31 @@ def MQTT_publish(weight, unit, mitdatetime, hasImpedance, miimpedance):
             data.append(new_json)
             print("new json")
             # Write the updated data back to the file
-            with open(weight_data_path, 'w') as json_file:
+            with open('./input/weight.json', 'w') as json_file:
                 json.dump(data, json_file)
         
         os.chdir(os.path.dirname(os.path.realpath(__file__)))
-        data_dir = os.path.join(weight_data_dir, 'html')
-        os.makedirs(data_dir, exist_ok=True)
+        formats_str = os.getenv('FORMATS', 'pdf')  # Default formats
+        formats = [fmt.strip().lower() for fmt in formats_str.split(',')]
+
         # Convert the Jupyter notebook to markdown (unchanged)
-        os.system(f"jupyter nbconvert --to markdown --no-prompt --TemplateExporter.exclude_input=True weight.ipynb")
-        os.system(f"jupyter nbconvert --to markdown --execute --output '{data_dir}/weight.md' --no-prompt --TemplateExporter.exclude_input=True weight.ipynb")
+        for fmt in formats:
+            os.system(f"jupyter nbconvert --to {fmt} --no-prompt --TemplateExporter.exclude_input=True --output-dir='./output' './input/notebook.ipynb'")
+            os.system(f"jupyter nbconvert --to {fmt} --execute --no-prompt --TemplateExporter.exclude_input=True --output-dir='./output' './input/notebook.ipynb'")
 
-        # Convert the Jupyter notebook to HTML and place it in the 'weight_data/html' directory
-        os.system(f"jupyter nbconvert --to html --execute --output '{data_dir}/index.html' --no-prompt --TemplateExporter.exclude_input=True weight.ipynb")
+        
+        # if os.path.exists(f"{weight_data_dir}/weight.md"):
+        #         # Read the markdown file
+        #     # Read the markdown file
+        #     with open(f"{weight_data_dir}/weight.md", 'r') as file:
+        #         markdown_content = file.read()
 
-        # Read the markdown file
-        with open(f"{data_dir}/weight.md", 'r') as file:
-            markdown_content = file.read()
+        #     # Replace occurrences of the specified string
+        #     markdown_content = markdown_content.replace('/opt/miscale/weight_data/html/', '')
 
-        # Replace occurrences of the specified string
-        markdown_content = markdown_content.replace('/opt/miscale/weight_data/html/', '')
-
-        # Write the modified content back to the file
-        with open(f"{data_dir}/weight.md", 'w') as file:
-            file.write(markdown_content)
+        #     # Write the modified content back to the file
+        #     with open(f"{weight_data_dir}/weight.md", 'w') as file:
+        #         file.write(markdown_content)
     except Exception as error:
         logging.error(f"Could not publish to MQTT: {error}")
         raise
@@ -163,8 +159,11 @@ os.system('clear')
 
 # Configuraiton...
 # Trying To Load Config From options.json (HA Add-On)
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+weight_data_dir = os.path.join(dir_path, 'data')
 try:
-    with open('/data/options.json') as json_file:
+    with open('./data/options.json') as json_file:
         data = json.load(json_file)["options"]
         try:
             DEBUG_LEVEL = data["DEBUG_LEVEL"]

@@ -1,2 +1,13 @@
 bleak==0.18.0
 paho-mqtt==1.5.0
+python-dotenv
+bluepy
+pandas
+matplotlib
+plotly
+jupyter
+ipykernel
+numpy
+nbconvert
+watchdog
+pyjson5

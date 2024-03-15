@@ -7,6 +7,8 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     build-essential \
     bluez \
     python3-pip \
+    texlive-xetex \
+    pandoc \
     libglib2.0-dev && \
     rm -rf /var/lib/apt/lists/*
 
@@ -18,3 +20,5 @@ COPY dockerscripts/ /
 RUN chmod +x /entrypoint.sh && chmod +x /cmd.sh
 ENTRYPOINT ["/entrypoint.sh"]
 CMD ["/cmd.sh"]
+
+RUN mkdir -p /opt/miscale/data /opt/miscale/input /opt/miscale/output

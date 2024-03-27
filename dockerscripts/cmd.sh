@@ -1,2 +1,2 @@
 set -e
-python3 -u /opt/miscale/Xiaomi_Scale.py
+python3 -u /opt/miscale/mqtt.py

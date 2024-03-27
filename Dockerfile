@@ -5,7 +5,6 @@ COPY src /opt/miscale
 
 RUN apt-get update && apt-get install --no-install-recommends -y \
     build-essential \
-    bluez \
     python3-pip \
     texlive-xetex \
     pandoc \

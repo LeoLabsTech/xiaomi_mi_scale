@@ -1,0 +1,2146 @@
+[
+    {
+        "weight": 88.95,
+        "weight_unit": "kg",
+        "bmi": 28.07,
+        "basal_metabolism": 1878.81,
+        "visceral_fat": 17.13,
+        "timestamp": "2023-06-11T23:34:14+00:00"
+    },
+    {
+        "weight": 88.95,
+        "weight_unit": "kg",
+        "bmi": 28.07,
+        "basal_metabolism": 1878.81,
+        "visceral_fat": 17.13,
+        "timestamp": "2023-06-17T23:34:14+00:00"
+    },
+    {
+        "weight": 90.6,
+        "weight_unit": "kg",
+        "bmi": 28.59,
+        "basal_metabolism": 1903.42,
+        "visceral_fat": 17.95,
+        "timestamp": "2023-06-17T23:50:26+00:00"
+    },
+    {
+        "weight": 90.6,
+        "weight_unit": "kg",
+        "bmi": 28.59,
+        "basal_metabolism": 1903.4,
+        "visceral_fat": 17.95,
+        "timestamp": "2023-06-18T00:00:15+00:00"
+    },
+    {
+        "weight": 90.75,
+        "weight_unit": "kg",
+        "bmi": 28.64,
+        "basal_metabolism": 1905.64,
+        "visceral_fat": 18.02,
+        "timestamp": "2023-06-18T03:02:37+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1877.3,
+        "visceral_fat": 17.08,
+        "timestamp": "2023-06-18T13:26:14+00:00"
+    },
+    {
+        "weight": 88.75,
+        "weight_unit": "kg",
+        "bmi": 28.01,
+        "basal_metabolism": 1875.8,
+        "visceral_fat": 17.03,
+        "timestamp": "2023-06-18T13:26:47+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1875.06,
+        "visceral_fat": 17.0,
+        "timestamp": "2023-06-18T14:00:14+00:00"
+    },
+    {
+        "weight": 87.5,
+        "weight_unit": "kg",
+        "bmi": 27.62,
+        "basal_metabolism": 1857.16,
+        "visceral_fat": 16.41,
+        "timestamp": "2023-06-18T14:06:08+00:00"
+    },
+    {
+        "weight": 88.8,
+        "weight_unit": "kg",
+        "bmi": 28.03,
+        "basal_metabolism": 1876.55,
+        "visceral_fat": 17.05,
+        "timestamp": "2023-06-18T14:07:32+00:00"
+    },
+    {
+        "weight": 89.4,
+        "weight_unit": "kg",
+        "bmi": 28.22,
+        "basal_metabolism": 1885.5,
+        "visceral_fat": 17.35,
+        "timestamp": "2023-06-18T15:03:57+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1884.01,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-06-18T15:06:35+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1887.74,
+        "visceral_fat": 17.43,
+        "timestamp": "2023-06-18T19:20:27+00:00"
+    },
+    {
+        "weight": 89.35,
+        "weight_unit": "kg",
+        "bmi": 28.2,
+        "basal_metabolism": 1884.75,
+        "visceral_fat": 17.33,
+        "timestamp": "2023-06-18T19:23:01+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1887.74,
+        "visceral_fat": 17.43,
+        "timestamp": "2023-06-18T19:39:09+00:00"
+    },
+    {
+        "weight": 89.05,
+        "weight_unit": "kg",
+        "bmi": 28.11,
+        "basal_metabolism": 1880.28,
+        "visceral_fat": 17.18,
+        "timestamp": "2023-06-18T19:40:48+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1887.74,
+        "visceral_fat": 17.43,
+        "timestamp": "2023-06-18T20:02:04+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1878.04,
+        "visceral_fat": 17.1,
+        "timestamp": "2023-06-18T20:02:37+00:00"
+    },
+    {
+        "weight": 89.6,
+        "weight_unit": "kg",
+        "bmi": 28.28,
+        "basal_metabolism": 1888.48,
+        "visceral_fat": 17.45,
+        "timestamp": "2023-06-18T20:03:10+00:00"
+    },
+    {
+        "weight": 90.0,
+        "weight_unit": "kg",
+        "bmi": 28.41,
+        "basal_metabolism": 1894.23,
+        "visceral_fat": 17.65,
+        "timestamp": "2023-06-27T09:27:55+00:00"
+    },
+    {
+        "weight": 90.0,
+        "weight_unit": "kg",
+        "bmi": 28.41,
+        "basal_metabolism": 1894.2,
+        "visceral_fat": 17.65,
+        "timestamp": "2023-06-28T00:22:40+00:00"
+    },
+    {
+        "weight": 91.3,
+        "weight_unit": "kg",
+        "bmi": 28.82,
+        "basal_metabolism": 1913.59,
+        "visceral_fat": 18.3,
+        "timestamp": "2023-06-28T00:22:54+00:00"
+    },
+    {
+        "weight": 90.8,
+        "weight_unit": "kg",
+        "bmi": 28.66,
+        "basal_metabolism": 1906.14,
+        "visceral_fat": 18.05,
+        "timestamp": "2023-06-28T01:29:15+00:00"
+    },
+    {
+        "weight": 91.0,
+        "weight_unit": "kg",
+        "bmi": 28.72,
+        "basal_metabolism": 1909.12,
+        "visceral_fat": 18.15,
+        "timestamp": "2023-06-28T01:59:19+00:00"
+    },
+    {
+        "weight": 88.6,
+        "weight_unit": "kg",
+        "bmi": 27.96,
+        "basal_metabolism": 1873.32,
+        "visceral_fat": 16.96,
+        "timestamp": "2023-06-28T12:26:07+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1874.81,
+        "visceral_fat": 17.01,
+        "timestamp": "2023-06-28T13:08:16+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1874.79,
+        "visceral_fat": 17.01,
+        "timestamp": "2023-06-29T13:35:58+00:00"
+    },
+    {
+        "weight": 89.0,
+        "weight_unit": "kg",
+        "bmi": 28.09,
+        "basal_metabolism": 1879.26,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-06-29T13:36:11+00:00"
+    },
+    {
+        "weight": 89.0,
+        "weight_unit": "kg",
+        "bmi": 28.09,
+        "basal_metabolism": 1879.24,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-06-30T12:01:09+00:00"
+    },
+    {
+        "weight": 89.85,
+        "weight_unit": "kg",
+        "bmi": 28.36,
+        "basal_metabolism": 1891.92,
+        "visceral_fat": 17.58,
+        "timestamp": "2023-06-30T12:01:12+00:00"
+    },
+    {
+        "weight": 89.85,
+        "weight_unit": "kg",
+        "bmi": 28.36,
+        "basal_metabolism": 1891.89,
+        "visceral_fat": 17.58,
+        "timestamp": "2023-07-01T06:23:38+00:00"
+    },
+    {
+        "weight": 90.45,
+        "weight_unit": "kg",
+        "bmi": 28.55,
+        "basal_metabolism": 1900.84,
+        "visceral_fat": 17.88,
+        "timestamp": "2023-07-01T06:23:51+00:00"
+    },
+    {
+        "weight": 90.45,
+        "weight_unit": "kg",
+        "bmi": 28.55,
+        "basal_metabolism": 1900.82,
+        "visceral_fat": 17.88,
+        "timestamp": "2023-07-02T11:59:11+00:00"
+    },
+    {
+        "weight": 89.25,
+        "weight_unit": "kg",
+        "bmi": 28.17,
+        "basal_metabolism": 1882.92,
+        "visceral_fat": 17.28,
+        "timestamp": "2023-07-02T11:59:18+00:00"
+    },
+    {
+        "weight": 89.25,
+        "weight_unit": "kg",
+        "bmi": 28.17,
+        "basal_metabolism": 1882.89,
+        "visceral_fat": 17.28,
+        "timestamp": "2023-07-03T09:45:39+00:00"
+    },
+    {
+        "weight": 89.65,
+        "weight_unit": "kg",
+        "bmi": 28.3,
+        "basal_metabolism": 1888.86,
+        "visceral_fat": 17.48,
+        "timestamp": "2023-07-03T09:45:49+00:00"
+    },
+    {
+        "weight": 89.65,
+        "weight_unit": "kg",
+        "bmi": 28.3,
+        "basal_metabolism": 1888.84,
+        "visceral_fat": 17.48,
+        "timestamp": "2023-07-04T07:05:03+00:00"
+    },
+    {
+        "weight": 89.65,
+        "weight_unit": "kg",
+        "bmi": 28.3,
+        "basal_metabolism": 1888.81,
+        "visceral_fat": 17.48,
+        "timestamp": "2023-07-05T05:00:39+00:00"
+    },
+    {
+        "weight": 90.15,
+        "weight_unit": "kg",
+        "bmi": 28.45,
+        "basal_metabolism": 1896.27,
+        "visceral_fat": 17.73,
+        "timestamp": "2023-07-05T06:03:59+00:00"
+    },
+    {
+        "weight": 90.15,
+        "weight_unit": "kg",
+        "bmi": 28.45,
+        "basal_metabolism": 1896.24,
+        "visceral_fat": 17.73,
+        "timestamp": "2023-07-06T08:25:48+00:00"
+    },
+    {
+        "weight": 89.85,
+        "weight_unit": "kg",
+        "bmi": 28.36,
+        "basal_metabolism": 1891.77,
+        "visceral_fat": 17.58,
+        "timestamp": "2023-07-06T08:26:03+00:00"
+    },
+    {
+        "weight": 89.85,
+        "weight_unit": "kg",
+        "bmi": 28.36,
+        "basal_metabolism": 1891.72,
+        "visceral_fat": 17.58,
+        "timestamp": "2023-07-08T10:35:07+00:00"
+    },
+    {
+        "weight": 89.25,
+        "weight_unit": "kg",
+        "bmi": 28.17,
+        "basal_metabolism": 1882.77,
+        "visceral_fat": 17.29,
+        "timestamp": "2023-07-08T10:35:17+00:00"
+    },
+    {
+        "weight": 89.25,
+        "weight_unit": "kg",
+        "bmi": 28.17,
+        "basal_metabolism": 1882.75,
+        "visceral_fat": 17.29,
+        "timestamp": "2023-07-09T10:46:18+00:00"
+    },
+    {
+        "weight": 89.6,
+        "weight_unit": "kg",
+        "bmi": 28.28,
+        "basal_metabolism": 1887.97,
+        "visceral_fat": 17.46,
+        "timestamp": "2023-07-09T10:46:28+00:00"
+    },
+    {
+        "weight": 89.6,
+        "weight_unit": "kg",
+        "bmi": 28.28,
+        "basal_metabolism": 1887.94,
+        "visceral_fat": 17.46,
+        "timestamp": "2023-07-10T09:20:51+00:00"
+    },
+    {
+        "weight": 89.7,
+        "weight_unit": "kg",
+        "bmi": 28.31,
+        "basal_metabolism": 1889.43,
+        "visceral_fat": 17.51,
+        "timestamp": "2023-07-10T09:20:58+00:00"
+    },
+    {
+        "weight": 89.35,
+        "weight_unit": "kg",
+        "bmi": 28.2,
+        "basal_metabolism": 1884.19,
+        "visceral_fat": 17.34,
+        "timestamp": "2023-07-11T09:41:49+00:00"
+    },
+    {
+        "weight": 89.95,
+        "weight_unit": "kg",
+        "bmi": 28.39,
+        "basal_metabolism": 1893.11,
+        "visceral_fat": 17.64,
+        "timestamp": "2023-07-12T08:43:38+00:00"
+    },
+    {
+        "weight": 89.7,
+        "weight_unit": "kg",
+        "bmi": 28.31,
+        "basal_metabolism": 1889.38,
+        "visceral_fat": 17.51,
+        "timestamp": "2023-07-12T13:19:01+00:00"
+    },
+    {
+        "weight": 89.7,
+        "weight_unit": "kg",
+        "bmi": 28.31,
+        "basal_metabolism": 1889.36,
+        "visceral_fat": 17.51,
+        "timestamp": "2023-07-13T10:10:52+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1881.9,
+        "visceral_fat": 17.26,
+        "timestamp": "2023-07-13T10:11:06+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1881.88,
+        "visceral_fat": 17.26,
+        "timestamp": "2023-07-14T08:40:00+00:00"
+    },
+    {
+        "weight": 89.8,
+        "weight_unit": "kg",
+        "bmi": 28.34,
+        "basal_metabolism": 1890.83,
+        "visceral_fat": 17.56,
+        "timestamp": "2023-07-14T08:40:32+00:00"
+    },
+    {
+        "weight": 89.8,
+        "weight_unit": "kg",
+        "bmi": 28.34,
+        "basal_metabolism": 1890.8,
+        "visceral_fat": 17.56,
+        "timestamp": "2023-07-15T10:21:54+00:00"
+    },
+    {
+        "weight": 89.0,
+        "weight_unit": "kg",
+        "bmi": 28.09,
+        "basal_metabolism": 1878.85,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-07-16T10:00:35+00:00"
+    },
+    {
+        "weight": 89.0,
+        "weight_unit": "kg",
+        "bmi": 28.09,
+        "basal_metabolism": 1878.82,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-07-17T10:45:33+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1874.35,
+        "visceral_fat": 17.02,
+        "timestamp": "2023-07-17T10:45:43+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1874.32,
+        "visceral_fat": 17.02,
+        "timestamp": "2023-07-18T06:28:44+00:00"
+    },
+    {
+        "weight": 88.6,
+        "weight_unit": "kg",
+        "bmi": 27.96,
+        "basal_metabolism": 1872.83,
+        "visceral_fat": 16.97,
+        "timestamp": "2023-07-18T10:16:45+00:00"
+    },
+    {
+        "weight": 88.6,
+        "weight_unit": "kg",
+        "bmi": 27.96,
+        "basal_metabolism": 1872.81,
+        "visceral_fat": 16.97,
+        "timestamp": "2023-07-19T08:13:01+00:00"
+    },
+    {
+        "weight": 89.9,
+        "weight_unit": "kg",
+        "bmi": 28.37,
+        "basal_metabolism": 1892.2,
+        "visceral_fat": 17.61,
+        "timestamp": "2023-07-19T08:13:11+00:00"
+    },
+    {
+        "weight": 89.9,
+        "weight_unit": "kg",
+        "bmi": 28.37,
+        "basal_metabolism": 1892.17,
+        "visceral_fat": 17.61,
+        "timestamp": "2023-07-20T10:52:39+00:00"
+    },
+    {
+        "weight": 89.05,
+        "weight_unit": "kg",
+        "bmi": 28.11,
+        "basal_metabolism": 1879.49,
+        "visceral_fat": 17.19,
+        "timestamp": "2023-07-20T10:52:50+00:00"
+    },
+    {
+        "weight": 89.05,
+        "weight_unit": "kg",
+        "bmi": 28.11,
+        "basal_metabolism": 1879.47,
+        "visceral_fat": 17.19,
+        "timestamp": "2023-07-21T08:12:33+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1883.2,
+        "visceral_fat": 17.32,
+        "timestamp": "2023-07-21T08:12:39+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1883.17,
+        "visceral_fat": 17.32,
+        "timestamp": "2023-07-22T12:45:19+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1877.21,
+        "visceral_fat": 17.12,
+        "timestamp": "2023-07-22T12:45:24+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1877.18,
+        "visceral_fat": 17.12,
+        "timestamp": "2023-07-23T11:51:21+00:00"
+    },
+    {
+        "weight": 88.25,
+        "weight_unit": "kg",
+        "bmi": 27.85,
+        "basal_metabolism": 1867.49,
+        "visceral_fat": 16.79,
+        "timestamp": "2023-07-23T11:51:32+00:00"
+    },
+    {
+        "weight": 88.25,
+        "weight_unit": "kg",
+        "bmi": 27.85,
+        "basal_metabolism": 1867.46,
+        "visceral_fat": 16.79,
+        "timestamp": "2023-07-24T09:07:06+00:00"
+    },
+    {
+        "weight": 88.65,
+        "weight_unit": "kg",
+        "bmi": 27.98,
+        "basal_metabolism": 1873.43,
+        "visceral_fat": 16.99,
+        "timestamp": "2023-07-24T09:07:17+00:00"
+    },
+    {
+        "weight": 88.65,
+        "weight_unit": "kg",
+        "bmi": 27.98,
+        "basal_metabolism": 1873.4,
+        "visceral_fat": 16.99,
+        "timestamp": "2023-07-25T10:27:57+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1870.42,
+        "visceral_fat": 16.89,
+        "timestamp": "2023-07-25T10:27:59+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1870.4,
+        "visceral_fat": 16.89,
+        "timestamp": "2023-07-26T09:37:53+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1886.8,
+        "visceral_fat": 17.44,
+        "timestamp": "2023-07-26T09:38:02+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1886.78,
+        "visceral_fat": 17.44,
+        "timestamp": "2023-07-27T11:42:33+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1881.56,
+        "visceral_fat": 17.27,
+        "timestamp": "2023-07-27T11:42:39+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1881.53,
+        "visceral_fat": 17.27,
+        "timestamp": "2023-07-28T11:05:37+00:00"
+    },
+    {
+        "weight": 89.1,
+        "weight_unit": "kg",
+        "bmi": 28.12,
+        "basal_metabolism": 1880.04,
+        "visceral_fat": 17.22,
+        "timestamp": "2023-07-28T11:05:52+00:00"
+    },
+    {
+        "weight": 89.1,
+        "weight_unit": "kg",
+        "bmi": 28.12,
+        "basal_metabolism": 1880.02,
+        "visceral_fat": 17.22,
+        "timestamp": "2023-07-29T12:34:10+00:00"
+    },
+    {
+        "weight": 88.15,
+        "weight_unit": "kg",
+        "bmi": 27.82,
+        "basal_metabolism": 1865.85,
+        "visceral_fat": 16.75,
+        "timestamp": "2023-07-29T12:34:23+00:00"
+    },
+    {
+        "weight": 88.15,
+        "weight_unit": "kg",
+        "bmi": 27.82,
+        "basal_metabolism": 1865.82,
+        "visceral_fat": 16.75,
+        "timestamp": "2023-07-30T12:36:12+00:00"
+    },
+    {
+        "weight": 89.4,
+        "weight_unit": "kg",
+        "bmi": 28.22,
+        "basal_metabolism": 1884.47,
+        "visceral_fat": 17.37,
+        "timestamp": "2023-07-30T12:36:20+00:00"
+    },
+    {
+        "weight": 89.4,
+        "weight_unit": "kg",
+        "bmi": 28.22,
+        "basal_metabolism": 1884.44,
+        "visceral_fat": 17.37,
+        "timestamp": "2023-07-31T13:49:38+00:00"
+    },
+    {
+        "weight": 88.75,
+        "weight_unit": "kg",
+        "bmi": 28.01,
+        "basal_metabolism": 1874.75,
+        "visceral_fat": 17.05,
+        "timestamp": "2023-07-31T13:49:46+00:00"
+    },
+    {
+        "weight": 88.5,
+        "weight_unit": "kg",
+        "bmi": 27.93,
+        "basal_metabolism": 1870.99,
+        "visceral_fat": 16.92,
+        "timestamp": "2023-08-01T12:31:42+00:00"
+    },
+    {
+        "weight": 88.5,
+        "weight_unit": "kg",
+        "bmi": 27.93,
+        "basal_metabolism": 1870.97,
+        "visceral_fat": 16.92,
+        "timestamp": "2023-08-02T11:55:23+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1876.19,
+        "visceral_fat": 17.1,
+        "timestamp": "2023-08-02T11:55:27+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1876.17,
+        "visceral_fat": 17.1,
+        "timestamp": "2023-08-03T12:38:08+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1870.2,
+        "visceral_fat": 16.9,
+        "timestamp": "2023-08-03T12:38:18+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1870.17,
+        "visceral_fat": 16.9,
+        "timestamp": "2023-08-04T11:54:58+00:00"
+    },
+    {
+        "weight": 86.15,
+        "weight_unit": "kg",
+        "bmi": 27.19,
+        "basal_metabolism": 1835.87,
+        "visceral_fat": 15.75,
+        "timestamp": "2023-08-04T11:55:16+00:00"
+    },
+    {
+        "weight": 86.15,
+        "weight_unit": "kg",
+        "bmi": 27.19,
+        "basal_metabolism": 1835.84,
+        "visceral_fat": 15.75,
+        "timestamp": "2023-08-05T12:56:42+00:00"
+    },
+    {
+        "weight": 89.9,
+        "weight_unit": "kg",
+        "bmi": 28.37,
+        "basal_metabolism": 1891.78,
+        "visceral_fat": 17.62,
+        "timestamp": "2023-08-05T12:56:58+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1886.53,
+        "visceral_fat": 17.45,
+        "timestamp": "2023-08-06T14:58:23+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1886.51,
+        "visceral_fat": 17.45,
+        "timestamp": "2023-08-07T14:44:30+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1876.81,
+        "visceral_fat": 17.12,
+        "timestamp": "2023-08-07T14:44:43+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1876.79,
+        "visceral_fat": 17.12,
+        "timestamp": "2023-08-08T14:39:48+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1873.8,
+        "visceral_fat": 17.02,
+        "timestamp": "2023-08-08T14:40:05+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1873.78,
+        "visceral_fat": 17.02,
+        "timestamp": "2023-08-09T14:06:45+00:00"
+    },
+    {
+        "weight": 88.3,
+        "weight_unit": "kg",
+        "bmi": 27.87,
+        "basal_metabolism": 1867.81,
+        "visceral_fat": 16.83,
+        "timestamp": "2023-08-09T14:07:01+00:00"
+    },
+    {
+        "weight": 88.3,
+        "weight_unit": "kg",
+        "bmi": 27.87,
+        "basal_metabolism": 1867.79,
+        "visceral_fat": 16.83,
+        "timestamp": "2023-08-10T16:47:08+00:00"
+    },
+    {
+        "weight": 88.0,
+        "weight_unit": "kg",
+        "bmi": 27.77,
+        "basal_metabolism": 1863.31,
+        "visceral_fat": 16.68,
+        "timestamp": "2023-08-10T16:47:11+00:00"
+    },
+    {
+        "weight": 88.0,
+        "weight_unit": "kg",
+        "bmi": 27.77,
+        "basal_metabolism": 1863.29,
+        "visceral_fat": 16.68,
+        "timestamp": "2023-08-11T13:27:21+00:00"
+    },
+    {
+        "weight": 87.9,
+        "weight_unit": "kg",
+        "bmi": 27.74,
+        "basal_metabolism": 1861.8,
+        "visceral_fat": 16.63,
+        "timestamp": "2023-08-11T13:27:31+00:00"
+    },
+    {
+        "weight": 89.1,
+        "weight_unit": "kg",
+        "bmi": 28.12,
+        "basal_metabolism": 1879.67,
+        "visceral_fat": 17.23,
+        "timestamp": "2023-08-12T13:29:50+00:00"
+    },
+    {
+        "weight": 90.2,
+        "weight_unit": "kg",
+        "bmi": 28.47,
+        "basal_metabolism": 1896.06,
+        "visceral_fat": 17.77,
+        "timestamp": "2023-08-13T09:14:43+00:00"
+    },
+    {
+        "weight": 88.0,
+        "weight_unit": "kg",
+        "bmi": 27.77,
+        "basal_metabolism": 1863.19,
+        "visceral_fat": 16.68,
+        "timestamp": "2023-08-15T08:52:49+00:00"
+    },
+    {
+        "weight": 88.0,
+        "weight_unit": "kg",
+        "bmi": 27.77,
+        "basal_metabolism": 1863.14,
+        "visceral_fat": 16.68,
+        "timestamp": "2023-08-17T13:51:54+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1869.85,
+        "visceral_fat": 16.9,
+        "timestamp": "2023-08-17T13:52:04+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1869.81,
+        "visceral_fat": 16.9,
+        "timestamp": "2023-08-19T13:06:25+00:00"
+    },
+    {
+        "weight": 87.75,
+        "weight_unit": "kg",
+        "bmi": 27.7,
+        "basal_metabolism": 1859.36,
+        "visceral_fat": 16.56,
+        "timestamp": "2023-08-19T13:06:37+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1869.78,
+        "visceral_fat": 16.9,
+        "timestamp": "2023-08-20T12:59:59+00:00"
+    },
+    {
+        "weight": 90.45,
+        "weight_unit": "kg",
+        "bmi": 28.55,
+        "basal_metabolism": 1898.41,
+        "visceral_fat": 17.92,
+        "timestamp": "2023-10-08T15:55:38+00:00"
+    },
+    {
+        "weight": 90.45,
+        "weight_unit": "kg",
+        "bmi": 28.55,
+        "basal_metabolism": 1898.36,
+        "visceral_fat": 17.92,
+        "timestamp": "2023-10-10T09:12:42+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1881.21,
+        "visceral_fat": 17.35,
+        "timestamp": "2023-10-10T09:12:47+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1881.18,
+        "visceral_fat": 17.35,
+        "timestamp": "2023-10-11T07:57:17+00:00"
+    },
+    {
+        "weight": 89.55,
+        "weight_unit": "kg",
+        "bmi": 28.26,
+        "basal_metabolism": 1884.91,
+        "visceral_fat": 17.47,
+        "timestamp": "2023-10-11T07:57:36+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1879.62,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-10-14T09:07:25+00:00"
+    },
+    {
+        "weight": 88.75,
+        "weight_unit": "kg",
+        "bmi": 28.01,
+        "basal_metabolism": 1872.9,
+        "visceral_fat": 17.08,
+        "timestamp": "2023-10-14T09:07:39+00:00"
+    },
+    {
+        "weight": 88.75,
+        "weight_unit": "kg",
+        "bmi": 28.01,
+        "basal_metabolism": 1872.88,
+        "visceral_fat": 17.08,
+        "timestamp": "2023-10-15T11:42:54+00:00"
+    },
+    {
+        "weight": 88.1,
+        "weight_unit": "kg",
+        "bmi": 27.81,
+        "basal_metabolism": 1863.18,
+        "visceral_fat": 16.75,
+        "timestamp": "2023-10-15T11:43:00+00:00"
+    },
+    {
+        "weight": 89.05,
+        "weight_unit": "kg",
+        "bmi": 28.11,
+        "basal_metabolism": 1877.25,
+        "visceral_fat": 17.23,
+        "timestamp": "2023-10-19T09:58:20+00:00"
+    },
+    {
+        "weight": 89.05,
+        "weight_unit": "kg",
+        "bmi": 28.11,
+        "basal_metabolism": 1877.23,
+        "visceral_fat": 17.23,
+        "timestamp": "2023-10-20T07:33:32+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1879.47,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-10-20T07:33:35+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1879.42,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-10-22T16:50:56+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1879.39,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-10-23T20:30:06+00:00"
+    },
+    {
+        "weight": 89.2,
+        "weight_unit": "kg",
+        "bmi": 28.15,
+        "basal_metabolism": 1879.37,
+        "visceral_fat": 17.3,
+        "timestamp": "2023-10-24T10:05:10+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1874.89,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-10-24T10:05:14+00:00"
+    },
+    {
+        "weight": 88.9,
+        "weight_unit": "kg",
+        "bmi": 28.06,
+        "basal_metabolism": 1874.85,
+        "visceral_fat": 17.16,
+        "timestamp": "2023-10-26T08:31:57+00:00"
+    },
+    {
+        "weight": 88.25,
+        "weight_unit": "kg",
+        "bmi": 27.85,
+        "basal_metabolism": 1865.15,
+        "visceral_fat": 16.83,
+        "timestamp": "2023-10-26T08:32:05+00:00"
+    },
+    {
+        "weight": 88.25,
+        "weight_unit": "kg",
+        "bmi": 27.85,
+        "basal_metabolism": 1865.13,
+        "visceral_fat": 16.83,
+        "timestamp": "2023-10-27T07:52:14+00:00"
+    },
+    {
+        "weight": 88.55,
+        "weight_unit": "kg",
+        "bmi": 27.95,
+        "basal_metabolism": 1869.6,
+        "visceral_fat": 16.98,
+        "timestamp": "2023-10-27T07:52:27+00:00"
+    },
+    {
+        "weight": 88.55,
+        "weight_unit": "kg",
+        "bmi": 27.95,
+        "basal_metabolism": 1869.55,
+        "visceral_fat": 16.98,
+        "timestamp": "2023-10-29T11:51:52+00:00"
+    },
+    {
+        "weight": 88.15,
+        "weight_unit": "kg",
+        "bmi": 27.82,
+        "basal_metabolism": 1863.58,
+        "visceral_fat": 16.78,
+        "timestamp": "2023-10-29T11:52:08+00:00"
+    },
+    {
+        "weight": 88.15,
+        "weight_unit": "kg",
+        "bmi": 27.82,
+        "basal_metabolism": 1863.54,
+        "visceral_fat": 16.78,
+        "timestamp": "2023-10-31T13:09:12+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1868.01,
+        "visceral_fat": 16.93,
+        "timestamp": "2023-10-31T13:09:19+00:00"
+    },
+    {
+        "weight": 88.45,
+        "weight_unit": "kg",
+        "bmi": 27.92,
+        "basal_metabolism": 1867.99,
+        "visceral_fat": 16.93,
+        "timestamp": "2023-11-01T12:33:37+00:00"
+    },
+    {
+        "weight": 87.75,
+        "weight_unit": "kg",
+        "bmi": 27.7,
+        "basal_metabolism": 1857.54,
+        "visceral_fat": 16.59,
+        "timestamp": "2023-11-01T12:33:46+00:00"
+    },
+    {
+        "weight": 87.75,
+        "weight_unit": "kg",
+        "bmi": 27.7,
+        "basal_metabolism": 1857.52,
+        "visceral_fat": 16.59,
+        "timestamp": "2023-11-02T11:11:56+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1871.69,
+        "visceral_fat": 17.06,
+        "timestamp": "2023-11-02T11:12:10+00:00"
+    },
+    {
+        "weight": 88.7,
+        "weight_unit": "kg",
+        "bmi": 28.0,
+        "basal_metabolism": 1871.67,
+        "visceral_fat": 17.06,
+        "timestamp": "2023-11-03T11:09:23+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1880.62,
+        "visceral_fat": 17.36,
+        "timestamp": "2023-11-03T11:09:40+00:00"
+    },
+    {
+        "weight": 89.3,
+        "weight_unit": "kg",
+        "bmi": 28.18,
+        "basal_metabolism": 1880.54,
+        "visceral_fat": 17.36,
+        "timestamp": "2023-11-06T10:46:26+00:00"
+    },
+    {
+        "weight": 89.5,
+        "weight_unit": "kg",
+        "bmi": 28.25,
+        "basal_metabolism": 1883.52,
+        "visceral_fat": 17.46,
+        "timestamp": "2023-11-06T10:46:34+00:00"
+    },
+    {
+        "weight": 89.5,
+        "weight_unit": "kg",
+        "bmi": 28.25,
+        "basal_metabolism": 1883.5,
+        "visceral_fat": 17.46,
+        "timestamp": "2023-11-07T11:02:10+00:00"
+    },
+    {
+        "weight": 88.5,
+        "weight_unit": "kg",
+        "bmi": 27.93,
+        "basal_metabolism": 1868.58,
+        "visceral_fat": 16.96,
+        "timestamp": "2023-11-07T11:02:23+00:00"
+    },
+    {
+        "weight": 88.5,
+        "weight_unit": "kg",
+        "bmi": 27.93,
+        "basal_metabolism": 1868.56,
+        "visceral_fat": 16.96,
+        "timestamp": "2023-11-08T10:27:00+00:00"
+    },
+    {
+        "weight": 88.8,
+        "weight_unit": "kg",
+        "bmi": 28.03,
+        "basal_metabolism": 1873.03,
+        "visceral_fat": 17.11,
+        "timestamp": "2023-11-08T10:27:12+00:00"
+    },
+    {
+        "weight": "87.55",
+        "weight_unit": "kg",
+        "bmi": "27.63",
+        "basal_metabolism": "1854.32",
+        "visceral_fat": "16.49",
+        "timestamp": "2023-11-11T22:03:50+00:00"
+    },
+    {
+        "weight": "88.35",
+        "weight_unit": "kg",
+        "bmi": "27.88",
+        "basal_metabolism": "1866.25",
+        "visceral_fat": "16.89",
+        "timestamp": "2023-11-11T22:04:24+00:00"
+    },
+    {
+        "weight": "88.20",
+        "weight_unit": "kg",
+        "bmi": "27.84",
+        "basal_metabolism": "1864.01",
+        "visceral_fat": "16.81",
+        "timestamp": "2023-11-11T22:05:07+00:00"
+    },
+    {
+        "weight": "88.15",
+        "weight_unit": "kg",
+        "bmi": "27.82",
+        "basal_metabolism": "1863.24",
+        "visceral_fat": "16.79",
+        "timestamp": "2023-11-12T00:33:12+00:00"
+    },
+    {
+        "weight": "87.15",
+        "weight_unit": "kg",
+        "bmi": "27.51",
+        "basal_metabolism": "1848.32",
+        "visceral_fat": "16.29",
+        "timestamp": "2023-11-12T01:12:14+00:00"
+    },
+    {
+        "weight": "88.30",
+        "weight_unit": "kg",
+        "bmi": "27.87",
+        "basal_metabolism": "1865.48",
+        "visceral_fat": "16.86",
+        "timestamp": "2023-11-12T01:34:54+00:00"
+    },
+    {
+        "weight": "88.05",
+        "weight_unit": "kg",
+        "bmi": "27.79",
+        "basal_metabolism": "1861.75",
+        "visceral_fat": "16.74",
+        "timestamp": "2023-11-12T02:20:28+00:00"
+    },
+    {
+        "weight": "87.80",
+        "weight_unit": "kg",
+        "bmi": "27.71",
+        "basal_metabolism": "1858.02",
+        "visceral_fat": "16.62",
+        "timestamp": "2023-11-12T02:39:03+00:00"
+    },
+    {
+        "weight": "89.05",
+        "weight_unit": "kg",
+        "bmi": "28.11",
+        "basal_metabolism": "1876.66",
+        "visceral_fat": "17.24",
+        "timestamp": "2023-11-12T11:03:02+00:00"
+    },
+    {
+        "weight": "88.45",
+        "weight_unit": "kg",
+        "bmi": "27.92",
+        "basal_metabolism": "1867.72",
+        "visceral_fat": "16.94",
+        "timestamp": "2023-11-12T16:32:39+00:00"
+    },
+    {
+        "weight": "88.60",
+        "weight_unit": "kg",
+        "bmi": "27.96",
+        "basal_metabolism": "1869.95",
+        "visceral_fat": "17.01",
+        "timestamp": "2023-11-12T16:51:54+00:00"
+    },
+    {
+        "weight": "89.50",
+        "weight_unit": "kg",
+        "bmi": "28.25",
+        "basal_metabolism": "1883.38",
+        "visceral_fat": "17.46",
+        "timestamp": "2023-11-12T20:30:03+00:00"
+    },
+    {
+        "weight": "88.05",
+        "weight_unit": "kg",
+        "bmi": "27.79",
+        "basal_metabolism": "1861.72",
+        "visceral_fat": "16.74",
+        "timestamp": "2023-11-13T10:15:02+00:00"
+    },
+    {
+        "weight": "86.90",
+        "weight_unit": "kg",
+        "bmi": "27.43",
+        "basal_metabolism": "1844.55",
+        "visceral_fat": "16.17",
+        "timestamp": "2023-11-14T09:41:20+00:00"
+    },
+    {
+        "weight": "87.55",
+        "weight_unit": "kg",
+        "bmi": "27.63",
+        "basal_metabolism": "1854.24",
+        "visceral_fat": "16.49",
+        "timestamp": "2023-11-14T14:08:37+00:00"
+    },
+    {
+        "weight": "86.95",
+        "weight_unit": "kg",
+        "bmi": "27.44",
+        "basal_metabolism": "1845.27",
+        "visceral_fat": "16.19",
+        "timestamp": "2023-11-15T09:41:23+00:00"
+    },
+    {
+        "weight": "88.65",
+        "weight_unit": "kg",
+        "bmi": "27.98",
+        "basal_metabolism": "1870.58",
+        "visceral_fat": "17.04",
+        "timestamp": "2023-11-17T08:55:20+00:00"
+    },
+    {
+        "weight": "88.60",
+        "weight_unit": "kg",
+        "bmi": "27.96",
+        "basal_metabolism": "1869.83",
+        "visceral_fat": "17.02",
+        "timestamp": "2023-11-17T08:55:35+00:00"
+    },
+    {
+        "weight": "89.35",
+        "weight_unit": "kg",
+        "bmi": "28.20",
+        "basal_metabolism": "1880.99",
+        "visceral_fat": "17.39",
+        "timestamp": "2023-11-18T10:36:59+00:00"
+    },
+    {
+        "weight": "88.90",
+        "weight_unit": "kg",
+        "bmi": "28.06",
+        "basal_metabolism": "1874.26",
+        "visceral_fat": "17.17",
+        "timestamp": "2023-11-19T10:57:13+00:00"
+    },
+    {
+        "weight": "89.15",
+        "weight_unit": "kg",
+        "bmi": "28.14",
+        "basal_metabolism": "1877.96",
+        "visceral_fat": "17.29",
+        "timestamp": "2023-11-20T09:52:10+00:00"
+    },
+    {
+        "weight": "88.75",
+        "weight_unit": "kg",
+        "bmi": "28.01",
+        "basal_metabolism": "1871.94",
+        "visceral_fat": "17.09",
+        "timestamp": "2023-11-22T16:32:52+00:00"
+    },
+    {
+        "weight": "89.30",
+        "weight_unit": "kg",
+        "bmi": "28.18",
+        "basal_metabolism": "1880.12",
+        "visceral_fat": "17.37",
+        "timestamp": "2023-11-23T08:29:43+00:00"
+    },
+    {
+        "weight": "90.05",
+        "weight_unit": "kg",
+        "bmi": "28.42",
+        "basal_metabolism": "1891.29",
+        "visceral_fat": "17.74",
+        "timestamp": "2023-11-24T12:01:05+00:00"
+    },
+    {
+        "weight": "89.30",
+        "weight_unit": "kg",
+        "bmi": "28.18",
+        "basal_metabolism": "1880.07",
+        "visceral_fat": "17.37",
+        "timestamp": "2023-11-25T08:43:32+00:00"
+    },
+    {
+        "weight": "89.25",
+        "weight_unit": "kg",
+        "bmi": "28.17",
+        "basal_metabolism": "1879.28",
+        "visceral_fat": "17.34",
+        "timestamp": "2023-11-27T09:36:58+00:00"
+    },
+    {
+        "weight": "89.05",
+        "weight_unit": "kg",
+        "bmi": "28.11",
+        "basal_metabolism": "1876.30",
+        "visceral_fat": "17.24",
+        "timestamp": "2023-11-27T19:50:50+00:00"
+    },
+    {
+        "weight": "88.85",
+        "weight_unit": "kg",
+        "bmi": "28.04",
+        "basal_metabolism": "1873.29",
+        "visceral_fat": "17.15",
+        "timestamp": "2023-11-28T10:08:54+00:00"
+    },
+    {
+        "weight": "89.05",
+        "weight_unit": "kg",
+        "bmi": "28.11",
+        "basal_metabolism": "1876.22",
+        "visceral_fat": "17.25",
+        "timestamp": "2023-11-30T08:04:26+00:00"
+    },
+    {
+        "weight": "88.90",
+        "weight_unit": "kg",
+        "bmi": "28.06",
+        "basal_metabolism": "1873.96",
+        "visceral_fat": "17.17",
+        "timestamp": "2023-12-01T08:56:09+00:00"
+    },
+    {
+        "weight": "87.30",
+        "weight_unit": "kg",
+        "bmi": "27.55",
+        "basal_metabolism": "1850.05",
+        "visceral_fat": "16.38",
+        "timestamp": "2023-12-03T12:49:37+00:00"
+    },
+    {
+        "weight": "87.75",
+        "weight_unit": "kg",
+        "bmi": "27.70",
+        "basal_metabolism": "1856.73",
+        "visceral_fat": "16.60",
+        "timestamp": "2023-12-04T10:43:25+00:00"
+    },
+    {
+        "weight": "87.90",
+        "weight_unit": "kg",
+        "bmi": "27.74",
+        "basal_metabolism": "1858.95",
+        "visceral_fat": "16.67",
+        "timestamp": "2023-12-05T14:45:30+00:00"
+    },
+    {
+        "weight": "88.85",
+        "weight_unit": "kg",
+        "bmi": "28.04",
+        "basal_metabolism": "1873.04",
+        "visceral_fat": "17.15",
+        "timestamp": "2023-12-08T09:41:48+00:00"
+    },
+    {
+        "weight": "88.15",
+        "weight_unit": "kg",
+        "bmi": "27.82",
+        "basal_metabolism": "1862.58",
+        "visceral_fat": "16.80",
+        "timestamp": "2023-12-09T14:23:51+00:00"
+    },
+    {
+        "weight": "88.50",
+        "weight_unit": "kg",
+        "bmi": "27.93",
+        "basal_metabolism": "1867.77",
+        "visceral_fat": "16.98",
+        "timestamp": "2023-12-10T13:57:30+00:00"
+    },
+    {
+        "weight": "88.35",
+        "weight_unit": "kg",
+        "bmi": "27.88",
+        "basal_metabolism": "1865.49",
+        "visceral_fat": "16.90",
+        "timestamp": "2023-12-12T11:30:50+00:00"
+    },
+    {
+        "weight": "88.45",
+        "weight_unit": "kg",
+        "bmi": "27.92",
+        "basal_metabolism": "1866.93",
+        "visceral_fat": "16.95",
+        "timestamp": "2023-12-14T19:37:10+00:00"
+    },
+    {
+        "weight": "87.10",
+        "weight_unit": "kg",
+        "bmi": "27.49",
+        "basal_metabolism": "1846.77",
+        "visceral_fat": "16.28",
+        "timestamp": "2023-12-15T14:34:08+00:00"
+    },
+    {
+        "weight": "87.50",
+        "weight_unit": "kg",
+        "bmi": "27.62",
+        "basal_metabolism": "1852.61",
+        "visceral_fat": "16.48",
+        "timestamp": "2023-12-20T15:09:41+00:00"
+    },
+    {
+        "weight": "87.70",
+        "weight_unit": "kg",
+        "bmi": "27.68",
+        "basal_metabolism": "1855.57",
+        "visceral_fat": "16.58",
+        "timestamp": "2023-12-21T14:27:03+00:00"
+    },
+    {
+        "weight": "88.35",
+        "weight_unit": "kg",
+        "bmi": "27.88",
+        "basal_metabolism": "1865.22",
+        "visceral_fat": "16.91",
+        "timestamp": "2023-12-23T13:03:43+00:00"
+    },
+    {
+        "weight": "87.20",
+        "weight_unit": "kg",
+        "bmi": "27.52",
+        "basal_metabolism": "1848.04",
+        "visceral_fat": "16.33",
+        "timestamp": "2023-12-24T16:03:04+00:00"
+    },
+    {
+        "weight": "88.10",
+        "weight_unit": "kg",
+        "bmi": "27.81",
+        "basal_metabolism": "1861.44",
+        "visceral_fat": "16.78",
+        "timestamp": "2023-12-25T13:53:02+00:00"
+    },
+    {
+        "weight": "87.80",
+        "weight_unit": "kg",
+        "bmi": "27.71",
+        "basal_metabolism": "1856.94",
+        "visceral_fat": "16.63",
+        "timestamp": "2023-12-26T14:57:03+00:00"
+    },
+    {
+        "weight": "86.95",
+        "weight_unit": "kg",
+        "bmi": "27.44",
+        "basal_metabolism": "1844.23",
+        "visceral_fat": "16.21",
+        "timestamp": "2023-12-27T14:33:18+00:00"
+    },
+    {
+        "weight": "87.05",
+        "weight_unit": "kg",
+        "bmi": "27.47",
+        "basal_metabolism": "1845.68",
+        "visceral_fat": "16.26",
+        "timestamp": "2023-12-29T15:36:58+00:00"
+    },
+    {
+        "weight": "88.95",
+        "weight_unit": "kg",
+        "bmi": "28.07",
+        "basal_metabolism": "1873.92",
+        "visceral_fat": "17.21",
+        "timestamp": "2024-01-02T14:51:50+00:00"
+    },
+    {
+        "weight": "87.70",
+        "weight_unit": "kg",
+        "bmi": "27.68",
+        "basal_metabolism": "1855.25",
+        "visceral_fat": "16.59",
+        "timestamp": "2024-01-03T18:27:14+00:00"
+    },
+    {
+        "weight": "88.40",
+        "weight_unit": "kg",
+        "bmi": "27.90",
+        "basal_metabolism": "1865.64",
+        "visceral_fat": "16.94",
+        "timestamp": "2024-01-05T14:40:28+00:00"
+    },
+    {
+        "weight": "88.35",
+        "weight_unit": "kg",
+        "bmi": "27.88",
+        "basal_metabolism": "1864.90",
+        "visceral_fat": "16.91",
+        "timestamp": "2024-01-05T14:40:46+00:00"
+    },
+    {
+        "weight": "87.05",
+        "weight_unit": "kg",
+        "bmi": "27.47",
+        "basal_metabolism": "1845.48",
+        "visceral_fat": "16.26",
+        "timestamp": "2024-01-06T16:53:30+00:00"
+    },
+    {
+        "weight": "88.05",
+        "weight_unit": "kg",
+        "bmi": "27.79",
+        "basal_metabolism": "1860.32",
+        "visceral_fat": "16.76",
+        "timestamp": "2024-01-09T14:01:04+00:00"
+    },
+    {
+        "weight": "88.50",
+        "weight_unit": "kg",
+        "bmi": "27.93",
+        "basal_metabolism": "1867.01",
+        "visceral_fat": "16.99",
+        "timestamp": "2024-01-10T03:23:24+00:00"
+    },
+    {
+        "weight": "88.70",
+        "weight_unit": "kg",
+        "bmi": "28.00",
+        "basal_metabolism": "1869.97",
+        "visceral_fat": "17.09",
+        "timestamp": "2024-01-11T04:11:39+00:00"
+    },
+    {
+        "weight": "87.85",
+        "weight_unit": "kg",
+        "bmi": "27.73",
+        "basal_metabolism": "1857.29",
+        "visceral_fat": "16.67",
+        "timestamp": "2024-01-11T13:54:30+00:00"
+    },
+    {
+        "weight": "87.45",
+        "weight_unit": "kg",
+        "bmi": "27.60",
+        "basal_metabolism": "1851.30",
+        "visceral_fat": "16.47",
+        "timestamp": "2024-01-12T14:36:34+00:00"
+    },
+    {
+        "weight": "86.80",
+        "weight_unit": "kg",
+        "bmi": "27.40",
+        "basal_metabolism": "1841.58",
+        "visceral_fat": "16.14",
+        "timestamp": "2024-01-13T14:54:29+00:00"
+    },
+    {
+        "weight": "87.75",
+        "weight_unit": "kg",
+        "bmi": "27.70",
+        "basal_metabolism": "1855.72",
+        "visceral_fat": "16.62",
+        "timestamp": "2024-01-14T14:25:49+00:00"
+    },
+    {
+        "weight": "87.65",
+        "weight_unit": "kg",
+        "bmi": "27.66",
+        "basal_metabolism": "1854.21",
+        "visceral_fat": "16.57",
+        "timestamp": "2024-01-15T17:12:38+00:00"
+    },
+    {
+        "weight": "87.15",
+        "weight_unit": "kg",
+        "bmi": "27.51",
+        "basal_metabolism": "1846.73",
+        "visceral_fat": "16.32",
+        "timestamp": "2024-01-16T16:19:38+00:00"
+    },
+    {
+        "weight": "87.70",
+        "weight_unit": "kg",
+        "bmi": "27.68",
+        "basal_metabolism": "1854.91",
+        "visceral_fat": "16.59",
+        "timestamp": "2024-01-17T11:03:04+00:00"
+    },
+    {
+        "weight": "87.05",
+        "weight_unit": "kg",
+        "bmi": "27.47",
+        "basal_metabolism": "1845.21",
+        "visceral_fat": "16.27",
+        "timestamp": "2024-01-17T19:34:56+00:00"
+    },
+    {
+        "weight": "87.85",
+        "weight_unit": "kg",
+        "bmi": "27.73",
+        "basal_metabolism": "1857.12",
+        "visceral_fat": "16.67",
+        "timestamp": "2024-01-18T15:00:22+00:00"
+    },
+    {
+        "weight": "87.30",
+        "weight_unit": "kg",
+        "bmi": "27.55",
+        "basal_metabolism": "1848.86",
+        "visceral_fat": "16.39",
+        "timestamp": "2024-01-20T15:20:15+00:00"
+    },
+    {
+        "weight": "87.00",
+        "weight_unit": "kg",
+        "bmi": "27.46",
+        "basal_metabolism": "1844.39",
+        "visceral_fat": "16.25",
+        "timestamp": "2024-01-20T16:00:26+00:00"
+    },
+    {
+        "weight": "89.15",
+        "weight_unit": "kg",
+        "bmi": "28.14",
+        "basal_metabolism": "1876.43",
+        "visceral_fat": "17.32",
+        "timestamp": "2024-01-21T11:17:59+00:00"
+    },
+    {
+        "weight": "87.55",
+        "weight_unit": "kg",
+        "bmi": "27.63",
+        "basal_metabolism": "1852.54",
+        "visceral_fat": "16.52",
+        "timestamp": "2024-01-22T13:12:17+00:00"
+    },
+    {
+        "weight": "87.30",
+        "weight_unit": "kg",
+        "bmi": "27.55",
+        "basal_metabolism": "1848.79",
+        "visceral_fat": "16.40",
+        "timestamp": "2024-01-23T13:34:31+00:00"
+    },
+    {
+        "weight": "87.60",
+        "weight_unit": "kg",
+        "bmi": "27.65",
+        "basal_metabolism": "1853.24",
+        "visceral_fat": "16.55",
+        "timestamp": "2024-01-24T13:09:44+00:00"
+    },
+    {
+        "weight": "87.40",
+        "weight_unit": "kg",
+        "bmi": "27.58",
+        "basal_metabolism": "1850.23",
+        "visceral_fat": "16.45",
+        "timestamp": "2024-01-25T12:32:00+00:00"
+    },
+    {
+        "weight": "87.25",
+        "weight_unit": "kg",
+        "bmi": "27.54",
+        "basal_metabolism": "1847.97",
+        "visceral_fat": "16.37",
+        "timestamp": "2024-01-26T13:50:25+00:00"
+    },
+    {
+        "weight": "86.85",
+        "weight_unit": "kg",
+        "bmi": "27.41",
+        "basal_metabolism": "1841.98",
+        "visceral_fat": "16.17",
+        "timestamp": "2024-01-27T13:45:04+00:00"
+    },
+    {
+        "weight": "87.65",
+        "weight_unit": "kg",
+        "bmi": "27.66",
+        "basal_metabolism": "1853.89",
+        "visceral_fat": "16.57",
+        "timestamp": "2024-01-28T13:25:03+00:00"
+    },
+    {
+        "weight": "86.95",
+        "weight_unit": "kg",
+        "bmi": "27.44",
+        "basal_metabolism": "1843.42",
+        "visceral_fat": "16.22",
+        "timestamp": "2024-01-29T13:24:20+00:00"
+    },
+    {
+        "weight": "88.45",
+        "weight_unit": "kg",
+        "bmi": "27.92",
+        "basal_metabolism": "1865.77",
+        "visceral_fat": "16.97",
+        "timestamp": "2024-01-30T12:10:24+00:00"
+    },
+    {
+        "weight": "87.40",
+        "weight_unit": "kg",
+        "bmi": "27.58",
+        "basal_metabolism": "1850.09",
+        "visceral_fat": "16.45",
+        "timestamp": "2024-01-31T11:55:24+00:00"
+    },
+    {
+        "weight": "86.65",
+        "weight_unit": "kg",
+        "bmi": "27.35",
+        "basal_metabolism": "1838.87",
+        "visceral_fat": "16.08",
+        "timestamp": "2024-02-01T12:28:30+00:00"
+    },
+    {
+        "weight": "88.10",
+        "weight_unit": "kg",
+        "bmi": "27.81",
+        "basal_metabolism": "1860.48",
+        "visceral_fat": "16.80",
+        "timestamp": "2024-02-02T11:28:56+00:00"
+    },
+    {
+        "weight": "86.60",
+        "weight_unit": "kg",
+        "bmi": "27.33",
+        "basal_metabolism": "1838.08",
+        "visceral_fat": "16.05",
+        "timestamp": "2024-02-03T12:37:53+00:00"
+    },
+    {
+        "weight": "87.45",
+        "weight_unit": "kg",
+        "bmi": "27.60",
+        "basal_metabolism": "1850.73",
+        "visceral_fat": "16.48",
+        "timestamp": "2024-02-04T12:15:43+00:00"
+    },
+    {
+        "weight": "87.75",
+        "weight_unit": "kg",
+        "bmi": "27.70",
+        "basal_metabolism": "1855.18",
+        "visceral_fat": "16.63",
+        "timestamp": "2024-02-05T12:37:13+00:00"
+    },
+    {
+        "weight": "87.80",
+        "weight_unit": "kg",
+        "bmi": "27.71",
+        "basal_metabolism": "1855.86",
+        "visceral_fat": "16.65",
+        "timestamp": "2024-02-08T12:22:28+00:00"
+    },
+    {
+        "weight": "89.00",
+        "weight_unit": "kg",
+        "bmi": "28.09",
+        "basal_metabolism": "1873.73",
+        "visceral_fat": "17.25",
+        "timestamp": "2024-02-09T11:23:21+00:00"
+    },
+    {
+        "weight": "89.85",
+        "weight_unit": "kg",
+        "bmi": "28.36",
+        "basal_metabolism": "1886.41",
+        "visceral_fat": "17.67",
+        "timestamp": "2024-02-09T16:56:22+00:00"
+    },
+    {
+        "weight": "88.30",
+        "weight_unit": "kg",
+        "bmi": "27.87",
+        "basal_metabolism": "1863.26",
+        "visceral_fat": "16.90",
+        "timestamp": "2024-02-10T11:14:09+00:00"
+    },
+    {
+        "weight": "88.85",
+        "weight_unit": "kg",
+        "bmi": "28.04",
+        "basal_metabolism": "1871.42",
+        "visceral_fat": "17.18",
+        "timestamp": "2024-02-12T09:30:03+00:00"
+    },
+    {
+        "weight": "88.50",
+        "weight_unit": "kg",
+        "bmi": "27.93",
+        "basal_metabolism": "1866.15",
+        "visceral_fat": "17.00",
+        "timestamp": "2024-02-14T09:44:09+00:00"
+    },
+    {
+        "weight": "88.70",
+        "weight_unit": "kg",
+        "bmi": "28.00",
+        "basal_metabolism": "1869.11",
+        "visceral_fat": "17.10",
+        "timestamp": "2024-02-15T17:08:56+00:00"
+    },
+    {
+        "weight": "86.75",
+        "weight_unit": "kg",
+        "bmi": "27.38",
+        "basal_metabolism": "1839.97",
+        "visceral_fat": "16.13",
+        "timestamp": "2024-02-17T09:25:57+00:00"
+    },
+    {
+        "weight": "88.90",
+        "weight_unit": "kg",
+        "bmi": "28.06",
+        "basal_metabolism": "1871.99",
+        "visceral_fat": "17.20",
+        "timestamp": "2024-02-19T11:04:03+00:00"
+    },
+    {
+        "weight": "88.65",
+        "weight_unit": "kg",
+        "bmi": "27.98",
+        "basal_metabolism": "1868.24",
+        "visceral_fat": "17.08",
+        "timestamp": "2024-02-20T08:55:59+00:00"
+    },
+    {
+        "weight": "88.00",
+        "weight_unit": "kg",
+        "bmi": "27.77",
+        "basal_metabolism": "1858.52",
+        "visceral_fat": "16.76",
+        "timestamp": "2024-02-21T10:52:58+00:00"
+    },
+    {
+        "weight": "87.55",
+        "weight_unit": "kg",
+        "bmi": "27.63",
+        "basal_metabolism": "1851.78",
+        "visceral_fat": "16.53",
+        "timestamp": "2024-02-22T10:00:00+00:00"
+    },
+    {
+        "weight": "88.60",
+        "weight_unit": "kg",
+        "bmi": "27.96",
+        "basal_metabolism": "1867.42",
+        "visceral_fat": "17.06",
+        "timestamp": "2024-02-23T02:44:23+00:00"
+    },
+    {
+        "weight": "87.60",
+        "weight_unit": "kg",
+        "bmi": "27.65",
+        "basal_metabolism": "1852.48",
+        "visceral_fat": "16.56",
+        "timestamp": "2024-02-24T10:52:13+00:00"
+    },
+    {
+        "weight": "87.15",
+        "weight_unit": "kg",
+        "bmi": "27.51",
+        "basal_metabolism": "1845.74",
+        "visceral_fat": "16.34",
+        "timestamp": "2024-02-25T11:31:26+00:00"
+    },
+    {
+        "weight": "88.45",
+        "weight_unit": "kg",
+        "bmi": "27.92",
+        "basal_metabolism": "1865.11",
+        "visceral_fat": "16.98",
+        "timestamp": "2024-02-26T09:10:25+00:00"
+    },
+    {
+        "weight": "87.00",
+        "weight_unit": "kg",
+        "bmi": "27.46",
+        "basal_metabolism": "1843.46",
+        "visceral_fat": "16.26",
+        "timestamp": "2024-02-27T09:51:58+00:00"
+    },
+    {
+        "weight": "86.90",
+        "weight_unit": "kg",
+        "bmi": "27.43",
+        "basal_metabolism": "1841.94",
+        "visceral_fat": "16.21",
+        "timestamp": "2024-02-28T00:17:53+00:00"
+    },
+    {
+        "weight": "86.45",
+        "weight_unit": "kg",
+        "bmi": "27.29",
+        "basal_metabolism": "1835.23",
+        "visceral_fat": "15.99",
+        "timestamp": "2024-02-28T10:02:33+00:00"
+    },
+    {
+        "weight": "88.35",
+        "weight_unit": "kg",
+        "bmi": "27.88",
+        "basal_metabolism": "1863.17",
+        "visceral_fat": "16.94",
+        "timestamp": "2024-03-15T14:57:51+00:00"
+    },
+    {
+        "weight": "88.25",
+        "weight_unit": "kg",
+        "bmi": "27.85",
+        "basal_metabolism": "1861.68",
+        "visceral_fat": "16.89",
+        "timestamp": "2024-03-15T15:26:25+00:00"
+    },
+    {
+        "weight": "87.55",
+        "weight_unit": "kg",
+        "bmi": "27.63",
+        "basal_metabolism": "1851.24",
+        "visceral_fat": "16.54",
+        "timestamp": "2024-03-15T16:29:23+00:00"
+    },
+    {
+        "weight": "87.85",
+        "weight_unit": "kg",
+        "bmi": "27.73",
+        "basal_metabolism": "1855.72",
+        "visceral_fat": "16.69",
+        "timestamp": "2024-03-15T16:30:32+00:00"
+    },
+    {
+        "weight": "87.65",
+        "weight_unit": "kg",
+        "bmi": "27.66",
+        "basal_metabolism": "1852.73",
+        "visceral_fat": "16.59",
+        "timestamp": "2024-03-15T16:32:53+00:00"
+    },
+    {
+        "weight": "87.80",
+        "weight_unit": "kg",
+        "bmi": "27.71",
+        "basal_metabolism": "1854.97",
+        "visceral_fat": "16.67",
+        "timestamp": "2024-03-15T16:37:40+00:00"
+    },
+    {
+        "weight": "87.60",
+        "weight_unit": "kg",
+        "bmi": "27.65",
+        "basal_metabolism": "1851.99",
+        "visceral_fat": "16.57",
+        "timestamp": "2024-03-15T17:21:14+00:00"
+    },
+    {
+        "weight": "88.05",
+        "weight_unit": "kg",
+        "bmi": "27.79",
+        "basal_metabolism": "1858.63",
+        "visceral_fat": "16.79",
+        "timestamp": "2024-03-18T11:25:43+00:00"
+    },
+    {
+        "weight": "88.80",
+        "weight_unit": "kg",
+        "bmi": "28.03",
+        "basal_metabolism": "1869.79",
+        "visceral_fat": "17.17",
+        "timestamp": "2024-03-19T09:13:20+00:00"
+    },
+    {
+        "weight": "88.60",
+        "weight_unit": "kg",
+        "bmi": "27.96",
+        "basal_metabolism": "1866.76",
+        "visceral_fat": "17.07",
+        "timestamp": "2024-03-21T09:25:26+00:00"
+    },
+    {
+        "weight": "89.45",
+        "weight_unit": "kg",
+        "bmi": "28.23",
+        "basal_metabolism": "1879.41",
+        "visceral_fat": "17.49",
+        "timestamp": "2024-03-22T11:55:54+00:00"
+    },
+    {
+        "weight": "89.05",
+        "weight_unit": "kg",
+        "bmi": "28.11",
+        "basal_metabolism": "1873.42",
+        "visceral_fat": "17.29",
+        "timestamp": "2024-03-23T13:47:12+00:00"
+    },
+    {
+        "weight": "89.30",
+        "weight_unit": "kg",
+        "bmi": "28.18",
+        "basal_metabolism": "1877.12",
+        "visceral_fat": "17.42",
+        "timestamp": "2024-03-24T11:23:33+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1870.34,
+        "visceral_fat": 17.19,
+        "timestamp": "2024-03-27T20:06:39+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1870.34,
+        "visceral_fat": 17.19,
+        "timestamp": "2024-03-27T20:06:39+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1870.34,
+        "visceral_fat": 17.19,
+        "timestamp": "2024-03-27T20:06:39+00:00"
+    },
+    {
+        "weight": 88.85,
+        "weight_unit": "kg",
+        "bmi": 28.04,
+        "basal_metabolism": 1870.34,
+        "visceral_fat": 17.19,
+        "timestamp": "2024-03-27T20:06:39+00:00"
+    }
+]
